@@ -71,7 +71,7 @@ The **Microsoft 365 Security Baseline Checker** is a Python-based tool designed 
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/diegomessiah/microsoft-365-security-baseline.git
+   git clone https://github.com/diegomessiah/Microsoft-365-Security-Baseline-Checker.git
    cd microsoft-365-security-baseline
    ```
 
